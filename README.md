@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Juan Andres Altamirano, a software developer focused on building scalable backend systems, full-stack applications, mobile experiences, and AI-powered features.
 
