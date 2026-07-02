@@ -46,6 +46,9 @@ I write about scalable backend systems, AI applications, distributed architectur
 - [Event-Driven Chatbot Interactions Using Kafka and SSE](https://www.ensolvers.com/post/event-driven-chatbots-interactions-using-kafka-and-sse)  
   Building responsive chatbot systems with Apache Kafka and Server-Sent Events.
 
+- [FSM Turns Chaos Into Control](https://shorturl.at/WWVCP)  
+  Using finite state machines to make AI assistant workflows deterministic, prevent invalid transitions, and handle recovery paths reliably.
+
 - [Integrating GA E-commerce Extensions in SPAs](https://www.ensolvers.com/post/integrating-ga-e-commerce-extensions-in-spas)  
   Implementing Google Analytics 4 e-commerce tracking in React single-page applications.
 
