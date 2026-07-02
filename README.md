@@ -26,12 +26,31 @@ I have experience on clean architecture, distributed systems, observability, eve
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+#### Cloud / Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 #### AI / Observability
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 
 ### Additional Experience
 ![Apache Lucene](https://img.shields.io/badge/Lucene-019B8F?style=for-the-badge&logo=apache&logoColor=white)
+
+### Technical Writing
+
+I write about scalable backend systems, AI applications, distributed architectures, and modern web development.
+
+- [MySQL as Memory Provider for LangChain4j and Its Boundaries](https://www.ensolvers.com/post/mysql-as-memory-provider-for-langchain4j-and-its-boundaries)  
+  Persistent and scalable chatbot memory with Java, JPA, MySQL, batching, caching, and asynchronous writes.
+
+- [Event-Driven Chatbot Interactions Using Kafka and SSE](https://www.ensolvers.com/post/event-driven-chatbots-interactions-using-kafka-and-sse)  
+  Building responsive chatbot systems with Apache Kafka and Server-Sent Events.
+
+- [Integrating GA E-commerce Extensions in SPAs](https://www.ensolvers.com/post/integrating-ga-e-commerce-extensions-in-spas)  
+  Implementing Google Analytics 4 e-commerce tracking in React single-page applications.
+
+- [Representing UI State in the URL with React and Hooks](https://www.ensolvers.com/post/representing-ui-state-in-the-url-with-react-and-hooks)  
+  Improving navigation, sharing, and maintainability by representing application state in URLs.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-andres-altamirano-marulanda)
